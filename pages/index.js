@@ -1,7 +1,7 @@
 import "react";
 import Head from "next/head";
 <Head>
-  <title>Saruul's cv</title>
+  <title>Saruul s cv</title>
   <link rel="icon" href="/saruul icon.png" type="image/png" />
   {/* <script src="https://kit.fontawesome.com/b99e675b6e.js" /> */}
 </Head>;
@@ -39,7 +39,7 @@ function App() {
           </div>
           <div className="resume_item resume_skills">
             <div className="title">
-              <p className="bold">skill's</p>
+              <p className="bold">skill s</p>
             </div>
             <ul>
               <li>
@@ -140,7 +140,7 @@ function App() {
             <li>
               <div className="date">2021 - </div>
               <div className="info">
-                <p className="semi-bold">Deep Learnig Team's particant.</p>
+                <p className="semi-bold">Deep Learnig Team s particant.</p>
                 <p>The worst learner</p>
               </div>
             </li>
